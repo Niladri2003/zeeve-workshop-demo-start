@@ -19,7 +19,7 @@ import type {
 } from 'wagmi';
 
 const contractConfig = {
-  address: '<add your deployed smart contract address here>',
+  address: '0x562fFA21167E4a08477ce1E99B627AB236d3088c',
   abi,
 };
 
